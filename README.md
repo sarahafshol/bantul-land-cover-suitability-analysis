@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project reconstructs a previous remote sensing and Geographic Information Systems (GIS) research project focused on coastal land cover change and land suitability in Bantul Regency, Yogyakarta, Indonesia.
+This project reconstructs a previous remote sensing and Geographic Information Systems (GIS) research project focused on coastal land cover change and land suitability in Bantul, Yogyakarta, Indonesia.
 
 The project explores how geospatial analysis can support environmental assessment, coastal land management, and sustainable land-use planning.
 
@@ -10,7 +10,7 @@ The project explores how geospatial analysis can support environmental assessmen
 
 The project builds on the research:
 
-**Land Cover Change and Land Use Suitability Analyses of Coastal Area in Bantul District, Yogyakarta, Indonesia (2019).**
+**Land Cover Change and Land Use Suitability Analyses of Coastal Area in Bantul, Yogyakarta, Indonesia (2019).**
 
 Original research publication: https://doi.org/10.13057/biodiv/d200541
 
@@ -24,7 +24,7 @@ Original research publication: https://doi.org/10.13057/biodiv/d200541
 
 ## Study Area
 
-Bantul Regency, Special Region of Yogyakarta, Indonesia.
+Bantul, Special Region of Yogyakarta, Indonesia.
 
 The analysis will focus on the coastal landscape, subject to the availability of suitable spatial data.
 
